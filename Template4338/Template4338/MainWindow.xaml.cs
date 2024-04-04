@@ -27,7 +27,8 @@ namespace Template4338
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
-
+            g4338_Khramkin g4338_Khramkin = new g4338_Khramkin();
+            g4338_Khramkin.Show();
         }
     }
 }
